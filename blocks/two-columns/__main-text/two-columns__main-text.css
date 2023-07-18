@@ -1,0 +1,6 @@
+.two-columns__main-text {
+  display: grid;
+  min-width: 784px;
+  max-width: 80%;
+  gap: 30px;
+}
